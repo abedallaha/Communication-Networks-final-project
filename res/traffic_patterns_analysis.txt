@@ -1,0 +1,503 @@
+Traffic Pattern Analysis
+=======================
+
+Source IP: 185.125.188.59
+Total Packets: 21
+Average Packet Size: 561.67 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 192.168.64.4
+Total Packets: 37779
+Average Packet Size: 111.24 bytes
+Protocols Used: TLS, DATA, OCSP, QUIC, STUN, TCP, NTP, MDNS, DNS, SSDP
+------------------------
+Source IP: 192.168.64.1
+Total Packets: 267
+Average Packet Size: 168.88 bytes
+Protocols Used: DNS
+------------------------
+Source IP: N/A
+Total Packets: 5582
+Average Packet Size: 729.37 bytes
+Protocols Used: TLS, DATA, DTLS, STUN, TCP, ARP, DNS, ICMPV6
+------------------------
+Source IP: 142.250.75.68
+Total Packets: 1436
+Average Packet Size: 1027.65 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.131
+Total Packets: 1354
+Average Packet Size: 1231.07 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.46
+Total Packets: 105
+Average Packet Size: 738.70 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.67
+Total Packets: 89
+Average Packet Size: 983.49 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.163
+Total Packets: 24
+Average Packet Size: 763.83 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.78
+Total Packets: 24
+Average Packet Size: 728.75 bytes
+Protocols Used: TCP, QUIC
+------------------------
+Source IP: 142.250.75.142
+Total Packets: 503
+Average Packet Size: 603.59 bytes
+Protocols Used: DATA, QUIC
+------------------------
+Source IP: 142.250.75.106
+Total Packets: 20
+Average Packet Size: 521.45 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 212.25.69.136
+Total Packets: 87
+Average Packet Size: 1830.07 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 2.16.147.107
+Total Packets: 13805
+Average Packet Size: 1777.26 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 157.240.196.15
+Total Packets: 160
+Average Packet Size: 1131.21 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 157.240.196.35
+Total Packets: 23
+Average Packet Size: 590.17 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 208.95.112.2
+Total Packets: 28
+Average Packet Size: 484.21 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 54.154.121.77
+Total Packets: 38
+Average Packet Size: 364.95 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 147.235.21.17
+Total Packets: 8597
+Average Packet Size: 1594.01 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 172.67.9.11
+Total Packets: 545
+Average Packet Size: 1154.31 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 23.206.251.90
+Total Packets: 15
+Average Packet Size: 579.33 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 104.77.202.83
+Total Packets: 68
+Average Packet Size: 1512.53 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 54.76.104.81
+Total Packets: 31
+Average Packet Size: 384.48 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 147.235.20.35
+Total Packets: 27
+Average Packet Size: 1101.22 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 23.206.251.104
+Total Packets: 226
+Average Packet Size: 1321.28 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 147.235.20.65
+Total Packets: 728
+Average Packet Size: 1598.77 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 147.235.20.8
+Total Packets: 2971
+Average Packet Size: 1734.72 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 192.117.99.204
+Total Packets: 18618
+Average Packet Size: 1905.61 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 71.18.74.198
+Total Packets: 52
+Average Packet Size: 611.06 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 147.235.21.73
+Total Packets: 47
+Average Packet Size: 480.40 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 142.250.75.155
+Total Packets: 49
+Average Packet Size: 367.96 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 147.235.21.33
+Total Packets: 127
+Average Packet Size: 1821.72 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 104.77.202.80
+Total Packets: 90
+Average Packet Size: 473.17 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 74.125.250.129
+Total Packets: 10
+Average Packet Size: 74.00 bytes
+Protocols Used: STUN
+------------------------
+Source IP: 147.235.21.34
+Total Packets: 159
+Average Packet Size: 1347.58 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 44.231.14.235
+Total Packets: 22
+Average Packet Size: 137.91 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 34.209.199.7
+Total Packets: 29
+Average Packet Size: 592.07 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 147.235.20.49
+Total Packets: 5020
+Average Packet Size: 1699.79 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 170.114.52.2
+Total Packets: 13
+Average Packet Size: 445.69 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 104.18.86.42
+Total Packets: 2
+Average Packet Size: 105.00 bytes
+Protocols Used: TLS
+------------------------
+Source IP: 149.137.14.37
+Total Packets: 10
+Average Packet Size: 205.50 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 104.83.138.254
+Total Packets: 12
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 134.224.0.54
+Total Packets: 46
+Average Packet Size: 414.74 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 52.84.151.40
+Total Packets: 1
+Average Packet Size: 105.00 bytes
+Protocols Used: TLS
+------------------------
+Source IP: 172.64.155.119
+Total Packets: 1
+Average Packet Size: 105.00 bytes
+Protocols Used: TLS
+------------------------
+Source IP: 199.232.83.42
+Total Packets: 5
+Average Packet Size: 180.60 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 185.125.190.57
+Total Packets: 1
+Average Packet Size: 90.00 bytes
+Protocols Used: NTP
+------------------------
+Source IP: 170.114.78.80
+Total Packets: 2
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 170.114.52.38
+Total Packets: 26
+Average Packet Size: 535.27 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 170.114.46.1
+Total Packets: 5107
+Average Packet Size: 1113.67 bytes
+Protocols Used: TLS, TCP, QUIC
+------------------------
+Source IP: 213.19.153.73
+Total Packets: 10
+Average Packet Size: 660.80 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 159.124.21.2
+Total Packets: 10
+Average Packet Size: 661.00 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 149.137.14.5
+Total Packets: 216
+Average Packet Size: 759.93 bytes
+Protocols Used: TLS, STUN, TCP
+------------------------
+Source IP: 142.250.75.132
+Total Packets: 2
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 142.250.75.35
+Total Packets: 32
+Average Packet Size: 824.03 bytes
+Protocols Used: TLS, DATA, TCP, QUIC
+------------------------
+Source IP: 13.226.2.126
+Total Packets: 3
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 104.18.34.190
+Total Packets: 3
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 142.250.75.130
+Total Packets: 14
+Average Packet Size: 367.29 bytes
+Protocols Used: TCP, QUIC
+------------------------
+Source IP: 142.250.75.33
+Total Packets: 88
+Average Packet Size: 1175.15 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.86
+Total Packets: 580
+Average Packet Size: 1319.39 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 147.235.31.206
+Total Packets: 3150
+Average Packet Size: 1362.08 bytes
+Protocols Used: DATA, QUIC
+------------------------
+Source IP: 142.250.75.54
+Total Packets: 36
+Average Packet Size: 1107.92 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.74
+Total Packets: 47
+Average Packet Size: 219.36 bytes
+Protocols Used: TLS, TCP, QUIC
+------------------------
+Source IP: 142.250.75.65
+Total Packets: 9
+Average Packet Size: 468.78 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 147.235.31.207
+Total Packets: 221
+Average Packet Size: 1356.08 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.66
+Total Packets: 9
+Average Packet Size: 472.44 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.36
+Total Packets: 783
+Average Packet Size: 884.85 bytes
+Protocols Used: TLS, TCP, QUIC
+------------------------
+Source IP: 34.120.208.123
+Total Packets: 30
+Average Packet Size: 250.70 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 142.250.75.145
+Total Packets: 17
+Average Packet Size: 367.76 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.110
+Total Packets: 24
+Average Packet Size: 707.17 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 142.250.75.98
+Total Packets: 13
+Average Packet Size: 353.69 bytes
+Protocols Used: QUIC
+------------------------
+Source IP: 185.15.59.224
+Total Packets: 71
+Average Packet Size: 1100.42 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 185.15.59.240
+Total Packets: 24
+Average Packet Size: 625.29 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 34.149.128.2
+Total Packets: 8
+Average Packet Size: 532.62 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 147.235.21.49
+Total Packets: 3
+Average Packet Size: 365.00 bytes
+Protocols Used: TCP, OCSP
+------------------------
+Source IP: 23.39.72.193
+Total Packets: 229
+Average Packet Size: 1436.38 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 65.9.113.21
+Total Packets: 8
+Average Packet Size: 570.25 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 65.9.112.81
+Total Packets: 111
+Average Packet Size: 1611.23 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 147.235.21.25
+Total Packets: 99
+Average Packet Size: 1640.63 bytes
+Protocols Used: TLS, DATA, TCP
+------------------------
+Source IP: 13.226.2.117
+Total Packets: 24
+Average Packet Size: 611.75 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 65.9.112.9
+Total Packets: 48
+Average Packet Size: 1858.33 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 65.9.112.80
+Total Packets: 5
+Average Packet Size: 69.00 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 147.235.21.75
+Total Packets: 11
+Average Packet Size: 718.36 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 13.226.2.111
+Total Packets: 11
+Average Packet Size: 583.18 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 65.9.112.96
+Total Packets: 13
+Average Packet Size: 641.69 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 23.195.9.243
+Total Packets: 52
+Average Packet Size: 1248.87 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 35.186.224.26
+Total Packets: 93
+Average Packet Size: 126.34 bytes
+Protocols Used: DATA
+------------------------
+Source IP: 35.186.224.24
+Total Packets: 69
+Average Packet Size: 515.71 bytes
+Protocols Used: DATA, TCP, QUIC
+------------------------
+Source IP: 216.239.34.178
+Total Packets: 51
+Average Packet Size: 93.08 bytes
+Protocols Used: DATA
+------------------------
+Source IP: 34.117.188.166
+Total Packets: 18
+Average Packet Size: 572.50 bytes
+Protocols Used: TLS, TCP, QUIC
+------------------------
+Source IP: 151.101.2.91
+Total Packets: 4
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 199.232.82.91
+Total Packets: 4
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 142.250.75.174
+Total Packets: 20
+Average Packet Size: 81.35 bytes
+Protocols Used: DATA
+------------------------
+Source IP: 151.101.194.91
+Total Packets: 3
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 35.186.224.41
+Total Packets: 2
+Average Packet Size: 86.00 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 104.18.87.42
+Total Packets: 6
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 107.178.254.65
+Total Packets: 2
+Average Packet Size: 66.00 bytes
+Protocols Used: TCP
+------------------------
+Source IP: 147.235.21.67
+Total Packets: 195
+Average Packet Size: 2039.62 bytes
+Protocols Used: TLS, TCP
+------------------------
+Source IP: 199.232.82.251
+Total Packets: 11
+Average Packet Size: 500.91 bytes
+Protocols Used: TLS, TCP, QUIC
+------------------------
+Source IP: 199.232.82.250
+Total Packets: 2
+Average Packet Size: 85.50 bytes
+Protocols Used: TLS, TCP
+------------------------

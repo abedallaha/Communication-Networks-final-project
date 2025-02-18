@@ -1,0 +1,70 @@
+Network Traffic Analysis Report
+=============================
+
+1. Overall Traffic Statistics
+----------------------------
+Total Packets Analyzed: 110,496
+Total Data Transferred: 110.84 MB
+Average Packet Size: 1051.80 bytes
+Time Period: 2025-02-18 06:25:44 to 2025-02-18 06:53:50
+
+2. Application Traffic Patterns
+------------------------------
+
+Web Browsing:
+- Packet Count: 104,845
+- Average Packet Size: 1067.25 bytes
+- Standard Deviation: 986.21 bytes
+- Protocols Used: TCP (44091), TLS (41640), QUIC (19114)
+- Packets per Minute: 3732.83
+
+Video Conferencing:
+- Packet Count: 2,600
+- Average Packet Size: 670.25 bytes
+- Standard Deviation: 504.99 bytes
+- Protocols Used: DTLS (2537), STUN (63)
+- Packets per Minute: 134.18
+
+Streaming:
+- Packet Count: 57,327
+- Average Packet Size: 1514.09 bytes
+- Standard Deviation: 864.90 bytes
+- Protocols Used: TLS (40303), QUIC (17024)
+- Packets per Minute: 2041.03
+
+3. Traffic Pattern Analysis
+-------------------------
+Distinguishing Features by Application Type:
+
+Web Browsing:
+- Characterized by variable packet sizes
+- Heavy use of TLS/HTTPS (port 443)
+- Bursty traffic patterns
+- Irregular intervals between packets
+
+Video Conferencing:
+- Consistent, regular packet intervals
+- High presence of UDP and DTLS
+- STUN protocol for NAT traversal
+- Bidirectional traffic with similar patterns
+
+Streaming:
+- Larger average packet sizes
+- Sustained traffic patterns
+- Heavy use of TCP and QUIC protocols
+- More downstream than upstream traffic
+
+4. Security Implications
+----------------------
+Application Fingerprinting:
+- Different applications show distinct traffic patterns
+- Video conferencing can be identified by STUN/DTLS usage
+- Streaming services show consistent large packet patterns
+- Web browsing shows varied packet sizes and intervals
+
+Privacy Considerations:
+- Even with encryption, traffic patterns can reveal application usage
+- Packet timing and size can indicate user activity
+- Protocol usage can identify specific applications
+- Regular patterns in video calls can reveal meeting duration
+- Streaming patterns can indicate quality of content (HD vs SD)
